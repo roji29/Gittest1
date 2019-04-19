@@ -1,10 +1,1 @@
- Volume in drive C is OSDisk
- Volume Serial Number is B0D6-8FE4
-
- Directory of C:\Users\roji.sahoo\Desktop\project
-
-04/19/2019  09:57 AM    <DIR>          .
-04/19/2019  09:57 AM    <DIR>          ..
-04/19/2019  09:57 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  46,565,769,216 bytes free
+test file
